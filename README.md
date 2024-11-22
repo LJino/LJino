@@ -10,10 +10,25 @@
 
 ## 🚀 Learning Goals  
 제가 배우고 있는 기술들과 관심 있는 분야:  
-- 🖌️ **모델링 & 렌더링**: Blender, Maya  
-- 🎮 **게임 엔진**: Unreal Engine, Unity  
-- 💻 **프로그래밍**: Python, C, C++
-- 🌐 **웹 개발**: HTML, CSS, React  
+
+### 🖌️ **모델링 & 렌더링**
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Autodesk%20Maya-1B8BC6?style=for-the-badge&logo=autodesk&logoColor=white)
+
+### 🎮 **게임 엔진**
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### 💻 **프로그래밍**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 **웹 개발**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 ---
 
