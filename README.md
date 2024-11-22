@@ -18,13 +18,12 @@
 ---
 
 ## 📂 Future Projects  
-아직 프로젝트 경험은 없지만, 작은 실습부터 시작하여 아래와 같은 작업을 목표로 하고 있습니다
+아직 프로젝트 경험은 없지만, 작은 실습부터 시작하여 아래와 같은 작업을 목표로 하고 있습니다.
 📌 **계획 중인 프로젝트**  
 - 🖼️ 간단한 3D 모델 제작  
 - 🕹️ Unity/Unreal Engine을 활용한 간단한 게임  
 - 📝 Python으로 텍스트 기반 게임 제작  
 - 🌟 웹 애플리케이션 프로토타입 디자인  
-
 앞으로 저의 프로필에서 더 많은 작업물을 볼 수 있을 겁니다. 🎉
 ---
 
@@ -36,7 +35,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?LJino=Ljino&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LJino&show_icons=true&theme=radical)
+
 
 ---
 
