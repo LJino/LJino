@@ -31,7 +31,7 @@
 ## 📫 Contact Me  
 저와 소통하거나 조언을 나누고 싶으시다면 언제든 환영합니다!  
 - 📧 **이메일**: [jnkid00@gmail.com]  
-- 🔗 **GitHub**: [My GitHub Profile](https://github.com/LJino)  
+- 🔗 **GitHub**: (https://github.com/LJino)  
 
 ---
 
