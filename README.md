@@ -1,16 +1,33 @@
 ## Hi there 👋
+# 👋 Hello! Welcome to My GitHub Profile
 
-<!--
-**LJino/LJino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me  
+안녕하세요! 저는 새로운 기술과 창의적인 도구를 배우며 성장하는 것을 좋아하는 임진오입니다.  
+현재 **모델링**, **렌더링**, **코딩** 등 다양한 분야를 탐색 중이며, 제 진로를 정하기 위해 여러 가지를 시도하고 있습니다.  
+미래에는 제가 배운 기술을 활용하여 창의적이고 실용적인 프로젝트를 만들어 보고 싶습니다.
 
-Here are some ideas to get you started:
+## 🚀 Learning Goals  
+제가 배우고 싶은 기술들과 관심 있는 분야는 다음과 같습니다:  
+- **모델링 & 렌더링**: Blender, Maya를 활용한 3D 아트와 애니메이션  
+- **프로그래밍**: Python, JavaScript, C, C++ 등 다양한 언어  
+- **웹 개발**: HTML, CSS, React를 활용한 인터랙티브 웹사이트  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+저는 이 기술들을 통해 창의적이고 흥미로운 작업을 해보고 싶습니다!
+
+## 📂 Future Projects  
+아직 큰 프로젝트 경험은 없지만, 학교에서 배우는 작은 실습부터 시작하여 아래와 같은 작업을 목표로 하고 있습니다:  
+
+
+앞으로 저의 프로필에서 더 많은 작업물을 볼 수 있을 겁니다. 🎉
+
+## 📫 Contact Me  
+저와 소통하거나 조언을 나누고 싶으시다면 언제든 환영합니다!  
+- 이메일: [jnkid00@gmail.com]  
+- GitHub: [https://github.com/LJino]
+
+## 🤝 Let’s Collaborate  
+배우는 과정에서 흥미로운 아이디어를 공유하고 협력해보는 것도 좋을 것 같습니다!  
+오픈소스 프로젝트나 간단한 실습에서 함께 작업할 기회를 기다리고 있습니다.  
+
+---
+
