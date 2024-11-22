@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hello! Welcome to My GitHub Profile
+# 👋 Hello! Welcome to LJino Profile
 
 ## 🌱 About Me  
 안녕하세요! 저는 새로운 기술과 창의적인 도구를 배우며 성장하는 것을 좋아하는 임진오입니다.  
